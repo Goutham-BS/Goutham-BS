@@ -34,6 +34,8 @@ jobs:
           plugin_people_types: followers
 #           plugin_followup: yes
 #           plugin_followup_sections: repositories
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: no
 #          plugin_habits: yes
 #          plugin_habits_facts: no
 #          plugin_habits_charts: yes
